@@ -107,7 +107,6 @@
     <module>external/kafka-0-10-assembly</module>
     <module>external/kafka-0-10-sql</module>
     <module>external/avro</module>
-    <!-- See additional modules enabled by profiles below -->
   </modules>
 
   <properties>
